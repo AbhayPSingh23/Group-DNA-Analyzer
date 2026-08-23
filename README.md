@@ -3,7 +3,7 @@
 An honest and raw look into my hostel group chat.
 This Python project analyzes a WhatsApp group chat export and generates a text-based dashboard with various statistics, including daily activity, longest silent streaks, top words, and automatically assigned personality archetypes for each participant.
 Final Output Dashboard 📸
-Here is a snapshot of the final output generated completely using Python logic, directly in the terminal: https://github.com/Group_DNA_Analyzer_Outputs.png
+Here is a snapshot of the final output generated completely using Python logic, directly in the terminal: https://github.com/AbhayPSingh23/Group-DNA-Analyzer/blob/main/Group_DNA_Analyzer_Outputs.png
 
 **Log & Process 🛠️**
 
